@@ -33,7 +33,7 @@ Use Case and Exception Handling
 <tr>
 <td valign="top">
 
-End event
+End Message
 
 </td>
 <td valign="top">
